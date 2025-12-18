@@ -8,7 +8,7 @@ I hope everyone is fine as Xmas is coming.
 
 Cheers
 
-# Exemples MD
+# Exemples MD , merci https://code-garage.com/blog/comment-ajouter-une-image-dans-un-fichier-mardown
 # Recette de la pâte à crêpes
 
 Tiré de la *fameuse recette* disponible sur [Internet](https://crepes.com/recette)
