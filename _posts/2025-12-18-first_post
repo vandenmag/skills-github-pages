@@ -39,9 +39,9 @@ Tiré de la *fameuse recette* disponible sur [Internet](https://crepes.com/recet
 ## Partager
 
 Pour intégrer cette recette sur votre site web, vous pouvez copier-coller le code suivante :
-```html
+###```html
 <iframe href="https://crepes.com/recette?embed"></iframe>
-```
+###```
 
 (ligne vide)
 [comment]: # (Mon commentaire)
@@ -54,3 +54,6 @@ ou
 - [X] Add CriticMarkup support
 - [ ] Add task list support
 - [ ] Add Footnotes support
+
+## PDF
+###'{%pdf et %}
