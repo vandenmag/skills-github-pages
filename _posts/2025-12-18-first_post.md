@@ -56,4 +56,4 @@ ou
 - [ ] Add Footnotes support
 
 ## PDF
-###'{%pdf et %}
+###'''{%pdf et %}'''
