@@ -55,5 +55,4 @@ ou
 - [ ] Add task list support
 - [ ] Add Footnotes support
 
-## PDF
-###'''{%pdf et %}'''
+
